@@ -14,9 +14,8 @@ Deliver secure, reliable, high-performance, and cost-effective compute infrastru
 Access the on-demand infrastructure and capacity you need to run HPC applications faster and cost-effectively.
 Access environments in minutes, dynamically scale capacity as needed, and benefit from AWS’s pay-as-you-go pricing.
 Deliver the broadest choice of compute, networking (up to 400 Gbps), and storage services purpose-built to optimize price performance for ML projects
-EC2 Instance Types
 
-Recommended to follow this page for very detailed and updated information.
+EC2 Instance Types :
 
 General purpose
 
